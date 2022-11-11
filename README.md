@@ -28,7 +28,7 @@
         - [2.3.1 Circadian System]
         - [2.3.2 Risk of Cardiovascular Disease]
             - [Association of usual sleep duration with hypertension: the Sleep Heart Health Study](https://pubmed.ncbi.nlm.nih.gov/16944668/) \
-            2813 men and 3097 women aged 40 to 100 years participated the sleep health study. The results show that sleep duration above or below 7 to 8 hours is prevalent with hypertension, especially for the extreme less than 6 hours. Overall, it suggests >= 60% increased likelihood of hypertension among people who have shorter sleep duration.
+            2813 men and 3097 women aged 40 to 100 years participated the sleep health study. The results show that sleep duration above or below 7 to 8 hours is prevalent with hypertension, especially for the extreme of less than 6 hours. Overall, it suggests >= 60% increased likelihood of hypertension among people who have shorter sleep duration.
 
         - [2.3.3 Risk of Obesity]
         - [2.3.4 Risk of Immunity] 
