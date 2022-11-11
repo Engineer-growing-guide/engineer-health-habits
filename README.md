@@ -21,12 +21,14 @@
             - [2.1.3.4 Tea]
     - [2.2 Exercise]
     - [2.3 Sleep]
-        In general, sleep duration is associated with the mortality in a U-shape. The lowest risk is within the sleep duration of 7-8 hours. Table 2.3 shows the study reviews. [Mortality associated with short sleep duration: The evidence, the possible mechanisms, and the future](https://pubmed.ncbi.nlm.nih.gov/19932976/)
-        [!Table 2.3]...
+        - [Mortality associated with short sleep duration: The evidence, the possible mechanisms, and the future](https://pubmed.ncbi.nlm.nih.gov/19932976/)
+        - In general, sleep duration is associated with the mortality in a U-shape. The lowest risk is within the sleep duration of 7-8 hours. Table 2.3 shows the study reviews.
+        - [!Table 2.3]...
 
         - [2.3.1 Circadian System]
         - [2.3.2 Risk of Cardiovascular Disease]
-        2813 men and 3097 women aged 40 to 100 years participated the sleep health study. The results show that sleep duration above or below 7 to 8 hours is prevalent with hypertension, especially for the extreme less than 6 hours. Overall, it suggests >= 60% increased likelihood of hypertension among people who have shorter sleep duration. [Association of usual sleep duration with hypertension: the Sleep Heart Health Study](https://pubmed.ncbi.nlm.nih.gov/16944668/) 
+            - [Association of usual sleep duration with hypertension: the Sleep Heart Health Study](https://pubmed.ncbi.nlm.nih.gov/16944668/) 
+            - 2813 men and 3097 women aged 40 to 100 years participated the sleep health study. The results show that sleep duration above or below 7 to 8 hours is prevalent with hypertension, especially for the extreme less than 6 hours. Overall, it suggests >= 60% increased likelihood of hypertension among people who have shorter sleep duration.
 
         - [2.3.3 Risk of Obesity]
         - [2.3.4 Risk of Immunity] 
