@@ -23,9 +23,9 @@
     - [2.3 Sleep]
         - [Mortality associated with short sleep duration: The evidence, the possible mechanisms, and the future](https://pubmed.ncbi.nlm.nih.gov/19932976/) \
         In general, sleep duration is associated with the mortality in a U-shape. The lowest risk is within the sleep duration of 7-8 hours. Table 2.3 shows the study reviews. \
-        ![Table 2.3](https://i.imgur.com/l9qR6CN.png)
+        ![Table 2.3](https://i.imgur.com/gKJImHL.png)
+        ![Table 2.3(countinue)](https://i.imgur.com/l9qR6CN.png)
         ![Table 2.3(countinue)](https://i.imgur.com/WrovLPT.png)
-        ![Table 2.3(countinue)](https://i.imgur.com/gKJImHL.png)
         ![Table 2.3(countinue)](https://i.imgur.com/mhpO80X.png)
 
         - [2.3.1 Circadian System]
